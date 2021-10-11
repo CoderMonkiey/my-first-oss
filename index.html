@@ -4,10 +4,38 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
-  </head>
-  <body>
-    <div id="app"></div>
     <script type="module" src="/main.js"></script>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <title>My First Open Source</title>
+  </head>
+  <body
+    class="
+      flex
+      items-center
+      justify-center
+      flex-col
+      min-h-screen
+      text-6xl
+      bg-black
+    "
+  >
+    <lottie-player
+      src="https://assets4.lottiefiles.com/packages/lf20_u4yrau.json"
+      background="transparent"
+      speed="1"
+      style="width: 90vw; height: 100vh"
+      loop
+      autoplay
+    >
+    </lottie-player>
+    <div class="text-purple-100 absolute">
+      My First Open Source <span class="animate-pulse">🚀</span>
+    </div>
+    <div class="absolute bottom-9 text-lg text-gray-200">
+      Created with <span class="animate-pulse text-2xl">💖</span> by
+      <a class="text-green-400" target="_blank" href="http://shihabsubair.com/"
+        >CoderMonkey</a
+      >
+    </div>
   </body>
 </html>
