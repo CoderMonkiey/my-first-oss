@@ -10,35 +10,41 @@ This is simple project to help people start with Open Source contribution.
 # Steps
 
 1. Fork this repository
+
 2. Clone the forked repository
    ```bash
-   git clone
+   git clone "url you just copied"
    ```
-3. Checkout a new branch like
 
+3. Checkout a new branch
    ```bash
-   git checkout -b pr/your-github-username
+   git checkout -b pr/<your_github_user_id>
    ```
 
-   _stick to the branch naming convention of pr/your-github-username_
+   _stick to the branch naming convention of `pr/<your_github_user_id>`_
 
 4. Open the code in your preferred editor/IDE
-5. Add your name and github id to the `Contributors.md` file, like
+
+5. Add your github-id to the `Contributors.md` file
    ```bash
-   - [Shihab](https://github.com/shihabus)
+   - [Shihab Fake](https://github.com/Shihab-fake/)
    ```
+
 6. Stage your changes
    ```bash
    git add .
    ```
+
 7. Commit your changes
    ```bash
    git commit -m '<MESSAGE_HERE>'
    ```
-8. Push your changes
 
+8. Push your changes
    ```bash
-   git push origin <BRANCH_NAME>
+   git push -u origin pr/<your_github_user_id>
    ```
 
 9. Raise a PR against https://github.com/CoderMonkiey/my-first-oss `master` branch
+
+10. Now wait until your PR gets approved by the admin
