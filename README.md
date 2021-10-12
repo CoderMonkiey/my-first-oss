@@ -45,6 +45,6 @@ This is simple project to help people start with Open Source contribution 🚀.
    git push -u origin pr/<your_github_user_id>
    ```
 
-9. Raise a PR against https://github.com/CoderMonkiey/my-first-oss `master` branch
+9. Raise a PR against https://github.com/CoderMonkiey/my-first-oss `main` branch
 
 10. Now wait until your PR gets approved by the admin
