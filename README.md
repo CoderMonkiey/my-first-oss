@@ -2,12 +2,12 @@
 
 This is simple project to help people start with Open Source contribution 🚀.
 
-# Prerequisites
+## Prerequisites
 
 1. Github Account
 2. A computer with an internet connection
 
-# Steps
+## Steps
 
 1. Fork this repository
 
