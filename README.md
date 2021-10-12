@@ -1,6 +1,6 @@
-# My First OS Contribution
+# My First OS Contribution ✨
 
-This is simple project to help people start with Open Source contribution.
+This is simple project to help people start with Open Source contribution 🚀.
 
 # Prerequisites
 
