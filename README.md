@@ -1,6 +1,6 @@
 # My First OS Contribution ✨
 
-This is a simple project for people to get started with Open Source contribution 🚀.
+This is a simple project to get started with Open Source contribution 🚀.
 
 ## Prerequisites
 
@@ -23,11 +23,11 @@ This is a simple project for people to get started with Open Source contribution
 
    _stick to the branch naming convention of `pr/<your_github_user_id>`_
 
-4. Open the code in your preferred code editor/IDE
+4. Open the project in your preferred code editor/IDE
 
 5. Add your github-id to the `Contributors.md` file
    ```bash
-   - [Shihab Fake](https://github.com/Shihab-fake/)
+   - [<Github-user-name>](https://github.com/<Github-user-name>/)
    ```
 
 6. Stage your changes
