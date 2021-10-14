@@ -1,19 +1,19 @@
 # My First OS Contribution ✨
 
-This is simple project to help people start with Open Source contribution 🚀.
+This is a simple project for people to get started with Open Source contribution 🚀.
 
 ## Prerequisites
 
-1. Github Account
-2. A computer with an internet connection
+1. You must have a [Github Account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
+2. A machine with [Git set up](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
 ## Steps
 
 1. Fork this repository
 
-2. Clone the forked repository
+2. Clone the forked repository into your local
    ```bash
-   git clone "url you just copied"
+   git clone "url"
    ```
 
 3. Checkout a new branch
@@ -23,7 +23,7 @@ This is simple project to help people start with Open Source contribution 🚀.
 
    _stick to the branch naming convention of `pr/<your_github_user_id>`_
 
-4. Open the code in your preferred editor/IDE
+4. Open the code in your preferred code editor/IDE
 
 5. Add your github-id to the `Contributors.md` file
    ```bash
@@ -47,4 +47,4 @@ This is simple project to help people start with Open Source contribution 🚀.
 
 9. Raise a PR against https://github.com/CoderMonkiey/my-first-oss `main` branch
 
-10. Now wait until your PR gets approved by the admin
+10. ✨ now you are open source contributor, let the admin accept your PR 🚀
