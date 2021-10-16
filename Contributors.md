@@ -2,4 +2,4 @@
 
 - [Shihab](https://github.com/shihabus)
 
-- [Raj] (https://github.com/Xx-RAJ-xX)
+- [Raj](https://github.com/Xx-RAJ-xX)
