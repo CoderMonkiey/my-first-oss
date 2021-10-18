@@ -2,7 +2,7 @@
 
 This is a simple project to get started with Open Source contribution 🚀.
 
-[Talk](https://codermonkey.notion.site/My-First-PR-on-GitHub-c7c632e7006d46cf900c4cc88887a444)
+[Slide Deck](https://codermonkey.notion.site/My-First-PR-on-GitHub-c7c632e7006d46cf900c4cc88887a444)
 
 ## Prerequisites
 
