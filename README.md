@@ -2,6 +2,8 @@
 
 This is a simple project to get started with Open Source contribution 🚀.
 
+[Talk](https://codermonkey.notion.site/My-First-PR-on-GitHub-c7c632e7006d46cf900c4cc88887a444)
+
 ## Prerequisites
 
 1. You must have a [Github Account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
